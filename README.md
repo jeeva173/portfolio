@@ -1,6 +1,3 @@
-# portfolio
-Personal portfolio website showcasing my projects, technical skills, and journey as a Full-Stack Developer. Built with HTML, CSS, and JavaScript, and deployed on Netlify.
-
 Jeeva RD — Developer Portfolio
 
 This repository contains the source code for my personal portfolio website. It is designed to showcase my skills, projects, technical expertise, and professional journey as an aspiring Full-Stack Developer. The portfolio features a modern, responsive design with smooth animations and an engaging user experience to highlight my work and achievements.
@@ -28,19 +25,8 @@ Easy access to download and view my latest resume directly from the portfolio.
 
 Contact & Social Links
 
-Integrated links to Email, LinkedIn, GitHub, and other professional platforms for networking and collaboration opportunities.
+Integrated links to Email, LinkedIn, GitHub, and other proessional platforms for networking and collaboration opportunities.
 
-🛠️ Tech Stack
-Frontend
-HTML5
-CSS3
-JavaScript
-Development Tools
-Git
-GitHub
-VS Code
-Deployment
-Netlify
 📂 Project Sections
 Hero Section
 
@@ -110,13 +96,6 @@ Jeeva RD
 
 🌐 Portfolio: https://brilliant-fairy-6a543d.netlify.app
 
-🎯 Future Enhancements
-Dark/Light Theme Toggle
-Advanced Animations with GSAP & Framer Motion
-Blog Section
-Interactive Project Gallery
-Backend Contact Form Integration
-Performance Optimizations
 ⭐ Support
 
 If you find this portfolio inspiring or useful, feel free to give this repository a star and connect with me.
