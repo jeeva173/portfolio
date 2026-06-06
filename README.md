@@ -1,103 +1,36 @@
-Jeeva RD — Developer Portfolio
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-This repository contains the source code for my personal portfolio website. It is designed to showcase my skills, projects, technical expertise, and professional journey as an aspiring Full-Stack Developer. The portfolio features a modern, responsive design with smooth animations and an engaging user experience to highlight my work and achievements.
+## Getting Started
 
-✨ Key Features
-Modern Portfolio Design
+First, run the development server:
 
-A clean and professional user interface designed to effectively present my skills, projects, and career aspirations.
-
-Responsive Experience
-
-Fully optimized for desktop, tablet, and mobile devices to ensure a seamless browsing experience across all screen sizes.
-
-Interactive User Interface
-
-Smooth transitions, animations, and interactive elements enhance user engagement and improve navigation.
-
-Project Showcase
-
-A dedicated section highlighting my featured projects with descriptions, technologies used, and links to source code or live demos.
-
-Resume Integration
-
-Easy access to download and view my latest resume directly from the portfolio.
-
-Contact & Social Links
-
-Integrated links to Email, LinkedIn, GitHub, and other proessional platforms for networking and collaboration opportunities.
-
-📂 Project Sections
-Hero Section
-
-A professional introduction featuring my name, role, and a brief summary of my interests and goals.
-
-About Me
-
-An overview of my background, learning journey, and passion for software development.
-
-Skills
-
-A categorized display of technical skills, programming languages, frameworks, and tools.
-
-Projects
-
-Showcases selected projects with descriptions, technologies used, and project links.
-
-Resume
-
-Provides recruiters and employers quick access to my latest resume.
-
-Contact
-
-A simple section allowing visitors to connect with me through email and social platforms.
-
-💼 Featured Projects
-Quiz Generator from Textbooks
-
-An NLP-powered application that generates multiple-choice questions from textbook content.
-
-Tech Stack: Python, NLP, Machine Learning
-
-Personal Portfolio Website
-
-A responsive portfolio website built to showcase my projects, technical skills, and professional profile.
-
-Tech Stack: HTML, CSS, JavaScript
-
-🚀 Running Locally
-
-To run this project on your local machine, follow these steps:
-
-Clone the Repository
-git clone https://github.com/your-username/portfolio.git
-cd portfolio
-Install Dependencies
-
-If applicable:
-
-npm install
-Start Development Server
+```bash
 npm run dev
-Open in Browser
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-Visit:
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-http://localhost:3000
-📫 Contact
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-Jeeva RD
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-📧 Email: jeevard173@gmail.com
+## Learn More
 
-💼 LinkedIn: https://linkedin.com/in/jeeva-rd
+To learn more about Next.js, take a look at the following resources:
 
-🐙 GitHub: https://github.com/your-github-username
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-🌐 Portfolio: https://brilliant-fairy-6a543d.netlify.app
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-⭐ Support
+## Deploy on Vercel
 
-If you find this portfolio inspiring or useful, feel free to give this repository a star and connect with me.
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-© 2026 Jeeva RD. All Rights Reserved.
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
